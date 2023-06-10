@@ -1,5 +1,4 @@
-Privacy Policy  
-----------------
+# Privacy Policy  
 
 ### Introduction  
 Our privacy policy will help you understand what information we collect at ApolloAI, how ApolloAI uses it, and what choices you have.
@@ -44,3 +43,6 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 Contact Information:  
 Email: apolloai.app@gmail.com
 Website: https://ai-apollo.webflow.io/
+
+# Data handling and requesting data removal
+We are using the Google Mobile Ads SDK to be able to display ads to you. For this purpose, Google uses the Android ad ID that is located in your device to choose which ads to display to you and to collect the data for analytis and prevent fraudulent acts.  Android ad ID collection is optional. The ad ID can be reset or deleted by users using ad ID controls in the Android settings menu.
